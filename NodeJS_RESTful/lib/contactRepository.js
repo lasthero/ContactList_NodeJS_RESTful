@@ -7,7 +7,7 @@ var Promise = require('promise');
 var Connection = require('tedious').Connection;
 var config = {
     userName: 'achou@achou',
-    password: 'chihho1977!',
+    password: 'test',
     server: 'achou.database.windows.net',
     // If you are on Microsoft Azure, you need this:
     options: {encrypt: true, database: 'AChou_Demo', rowCollectionOnDone:true }
