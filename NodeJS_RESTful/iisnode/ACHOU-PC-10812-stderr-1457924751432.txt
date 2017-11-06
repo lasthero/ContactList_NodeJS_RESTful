@@ -1,0 +1,3 @@
+{ [ConnectionError: Database 'AChou_Demo' on server 'achou' is not currently available.  Please retry the connection later.  If the problem persists, contact customer support, and provide them the session tracing ID of '{6A68BCC1-46E6-4F20-91DF-1DC76B2234DF}'.]
+  message: 'Database \'AChou_Demo\' on server \'achou\' is not currently available.  Please retry the connection later.  If the problem persists, contact customer support, and provide them the session tracing ID of \'{6A68BCC1-46E6-4F20-91DF-1DC76B2234DF}\'.',
+  code: 'ELOGIN' }
